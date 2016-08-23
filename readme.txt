@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
 切,我要修改一下
+dev分支正在改东西
+我刚开发了一个新功能,用于火星飞船
